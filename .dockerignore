@@ -1,0 +1,9 @@
+node_modules
+npm-debug.log
+.env
+.git
+.gitignore
+workflows/
+rename.js
+README.md
+implementation_plan.md
